@@ -1,0 +1,10 @@
+Autoturism{model='Sandero', culoare='Rosu', caroserie='Hatchback'} Masina{marca='Dacia', capacitate=900, pret=10000.0} Vehicul{tip='Automobil', areMotor=true, nrRoti=4}
+Autoturism{model='A4', culoare='Argintiu', caroserie='Berlina'} Masina{marca='Audi', capacitate=1800, pret=10000.0} Vehicul{tip='Automobil', areMotor=true, nrRoti=4}
+Autoturism{model='Logan', culoare='Rosu', caroserie='Berlina'} Masina{marca='Dacia', capacitate=1400, pret=10000.0} Vehicul{tip='Automobil', areMotor=true, nrRoti=4}
+Autoturism{model='Logan', culoare='Rosu', caroserie='Berlina'} Masina{marca='Dacia', capacitate=1400, pret=10000.0} Vehicul{tip='Automobil', areMotor=true, nrRoti=4}
+Autoturism{model='Ceed', culoare='Negru', caroserie='Hatchback'} Masina{marca='Kia', capacitate=2000, pret=15000.0} Vehicul{tip='Automobil', areMotor=true, nrRoti=4}
+Autoturism{model='Lodgy', culoare='Maro', caroserie='Break'} Masina{marca='Dacia', capacitate=1100, pret=9000.0} Vehicul{tip='Automobil', areMotor=true, nrRoti=4}
+Autoturism{model='Golf', culoare='Alb', caroserie='Hatchback'} Masina{marca='Volkswagen', capacitate=1900, pret=19000.0} Vehicul{tip='Automobil', areMotor=true, nrRoti=4}
+Autoturism{model='Ceed', culoare='Negru', caroserie='Hatchback'} Masina{marca='Kia', capacitate=2000, pret=15000.0} Vehicul{tip='Automobil', areMotor=true, nrRoti=4}
+Autoturism{model='Astra', culoare='Rosu', caroserie='Berlina'} Masina{marca='Opel', capacitate=1700, pret=8000.0} Vehicul{tip='Curse', areMotor=true, nrRoti=4}
+Autoturism{model='Sprinter', culoare='Albastru', caroserie='Berlina'} Masina{marca='Opel', capacitate=1800, pret=20000.0} Vehicul{tip='Transport', areMotor=true, nrRoti=6}
